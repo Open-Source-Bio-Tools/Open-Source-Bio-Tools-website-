@@ -1,2 +1,13 @@
 # Open-Source-Bio-Tools
-Organization making software/hardware/wetware to accelarate biotech
+
+Minimal nonprofit website built with React and Vite.
+
+## Run
+
+1. `npm install`
+2. `npm run dev`
+
+## Build
+
+1. `npm run build`
+2. `npm run preview`
